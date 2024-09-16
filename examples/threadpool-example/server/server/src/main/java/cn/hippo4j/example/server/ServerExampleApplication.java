@@ -23,6 +23,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Server Example Application
+ * lx
  */
 @EnableDynamicThreadPool
 @SpringBootApplication(scanBasePackages = {"cn.hippo4j.example.core", "cn.hippo4j.example.server"})
